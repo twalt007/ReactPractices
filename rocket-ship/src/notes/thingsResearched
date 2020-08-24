@@ -1,0 +1,9 @@
+SCSS
+    &
+BEM - block, element, modifier method for CSS naming conventions
+    Block__element--modifier
+ShouldComponentUpdate
+useState
+function Components
+class Components
+general review of react

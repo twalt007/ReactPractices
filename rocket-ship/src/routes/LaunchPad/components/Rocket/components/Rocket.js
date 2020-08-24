@@ -16,9 +16,10 @@ export class ClassRocket extends Component {
     };
   }
 
+  shouldComponentUpdate(nextProps, nextState)
+
   render() {
     const { initialLaunchTime } = this.state;
-
     return <RocketCore initialLaunchTime={initialLaunchTime} />;
   }
 }
